@@ -1,4 +1,4 @@
-# avr-toolkit
+# attiny13-toolkit
 
 Personal toolkit for building ATtiny13A firmware
 
